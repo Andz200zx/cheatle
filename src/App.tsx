@@ -10,11 +10,11 @@ class App extends React.Component {
 
   render(): React.ReactNode {
     return (
-      <div className="bg-gray-200 dark:bg-gray-900">
-        <div className="container mx-auto text-center">
+      <div className="h-screen bg-gray-200 dark:bg-gray-900">
+        <div className="container text-center">
           <Theme />
-          <div className="bg-purple-700 text-slate-900 dark:text-white">
-            Cheatle day {this.day}
+          <div className="bg-greenle text-slate-900 dark:text-white">
+            day {this.day}
           </div>
         </div>
       </div>
