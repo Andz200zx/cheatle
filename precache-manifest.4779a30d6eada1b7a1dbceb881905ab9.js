@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31be0e3f3cd2627c6571a0fd07b1e18c",
+    "revision": "aa65044586d4f6dc56899bc03ccec6ca",
     "url": "/cheatle/index.html"
   },
   {
-    "revision": "c804cec87d97554121e5",
+    "revision": "6861fd7eed2181723d6d",
     "url": "/cheatle/static/css/main.f53079c0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cheatle/static/js/2.19047dcf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c804cec87d97554121e5",
-    "url": "/cheatle/static/js/main.0963cd2d.chunk.js"
+    "revision": "6861fd7eed2181723d6d",
+    "url": "/cheatle/static/js/main.7a305342.chunk.js"
   },
   {
     "revision": "59540d3f76f72268c276",
