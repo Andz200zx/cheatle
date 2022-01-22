@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58628abec5d0ed19edf86cb12b3e2838",
+    "revision": "8df031efd0ddaef99c83453878eb267a",
     "url": "/cheatle/index.html"
   },
   {
-    "revision": "f6d492f87df10d8c928d",
-    "url": "/cheatle/static/css/main.dcfb4118.chunk.css"
+    "revision": "d319394e62bce97e62bd",
+    "url": "/cheatle/static/css/main.057643b4.chunk.css"
   },
   {
     "revision": "e7d85a135c125d2acef7",
     "url": "/cheatle/static/js/2.1785613e.chunk.js"
   },
   {
-    "revision": "f6d492f87df10d8c928d",
-    "url": "/cheatle/static/js/main.376555b6.chunk.js"
+    "revision": "d319394e62bce97e62bd",
+    "url": "/cheatle/static/js/main.73bd7f48.chunk.js"
   },
   {
     "revision": "d8b2794248f97d0bb38a",
