@@ -10,7 +10,7 @@
 
 # production
 /build
-src/output.css
+/src/output.css
 
 # misc
 .DS_Store
