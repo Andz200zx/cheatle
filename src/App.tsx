@@ -7,7 +7,7 @@ class App extends React.Component {
     return (
       <div className='text-center dark:bg-slate-800'>
         <Theme />
-          <div className='bg-blue-500 text-slate-900 dark:text-white'>
+          <div className='bg-red-800 text-slate-900 dark:text-white'>
             Cheatle
           </div>
       </div>
