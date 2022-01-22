@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/cheatle/static/css/main.057643b4.chunk.css",
-    "main.js": "/cheatle/static/js/main.73bd7f48.chunk.js",
-    "main.js.map": "/cheatle/static/js/main.73bd7f48.chunk.js.map",
-    "runtime~main.js": "/cheatle/static/js/runtime~main.be8d7063.js",
-    "runtime~main.js.map": "/cheatle/static/js/runtime~main.be8d7063.js.map",
-    "static/js/2.1785613e.chunk.js": "/cheatle/static/js/2.1785613e.chunk.js",
-    "static/js/2.1785613e.chunk.js.map": "/cheatle/static/js/2.1785613e.chunk.js.map",
+    "main.css": "/cheatle/static/css/main.f53079c0.chunk.css",
+    "main.js": "/cheatle/static/js/main.0963cd2d.chunk.js",
+    "main.js.map": "/cheatle/static/js/main.0963cd2d.chunk.js.map",
+    "runtime-main.js": "/cheatle/static/js/runtime-main.f286c2f1.js",
+    "runtime-main.js.map": "/cheatle/static/js/runtime-main.f286c2f1.js.map",
+    "static/js/2.19047dcf.chunk.js": "/cheatle/static/js/2.19047dcf.chunk.js",
+    "static/js/2.19047dcf.chunk.js.map": "/cheatle/static/js/2.19047dcf.chunk.js.map",
     "index.html": "/cheatle/index.html",
-    "precache-manifest.3dcfd714f4365466d29643b2d5903e08.js": "/cheatle/precache-manifest.3dcfd714f4365466d29643b2d5903e08.js",
+    "precache-manifest.3eec05536d22a95d082b374fe373f319.js": "/cheatle/precache-manifest.3eec05536d22a95d082b374fe373f319.js",
     "service-worker.js": "/cheatle/service-worker.js",
-    "static/css/main.057643b4.chunk.css.map": "/cheatle/static/css/main.057643b4.chunk.css.map"
-  }
+    "static/css/main.f53079c0.chunk.css.map": "/cheatle/static/css/main.f53079c0.chunk.css.map",
+    "static/js/2.19047dcf.chunk.js.LICENSE.txt": "/cheatle/static/js/2.19047dcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f286c2f1.js",
+    "static/js/2.19047dcf.chunk.js",
+    "static/css/main.f53079c0.chunk.css",
+    "static/js/main.0963cd2d.chunk.js"
+  ]
 }
