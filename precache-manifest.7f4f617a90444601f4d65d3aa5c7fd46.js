@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa65044586d4f6dc56899bc03ccec6ca",
+    "revision": "37abbcc8c466681e2197da95e6af1513",
     "url": "/cheatle/index.html"
   },
   {
-    "revision": "6861fd7eed2181723d6d",
-    "url": "/cheatle/static/css/main.f53079c0.chunk.css"
+    "revision": "1c6b42ad89df77171861",
+    "url": "/cheatle/static/css/main.96706879.chunk.css"
   },
   {
     "revision": "2d6e4d6187b20fd9e678",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cheatle/static/js/2.19047dcf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6861fd7eed2181723d6d",
-    "url": "/cheatle/static/js/main.7a305342.chunk.js"
+    "revision": "1c6b42ad89df77171861",
+    "url": "/cheatle/static/js/main.e61411d4.chunk.js"
   },
   {
     "revision": "59540d3f76f72268c276",

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cheatle/static/css/main.f53079c0.chunk.css",
-    "main.js": "/cheatle/static/js/main.7a305342.chunk.js",
-    "main.js.map": "/cheatle/static/js/main.7a305342.chunk.js.map",
+    "main.css": "/cheatle/static/css/main.96706879.chunk.css",
+    "main.js": "/cheatle/static/js/main.e61411d4.chunk.js",
+    "main.js.map": "/cheatle/static/js/main.e61411d4.chunk.js.map",
     "runtime-main.js": "/cheatle/static/js/runtime-main.f286c2f1.js",
     "runtime-main.js.map": "/cheatle/static/js/runtime-main.f286c2f1.js.map",
     "static/js/2.19047dcf.chunk.js": "/cheatle/static/js/2.19047dcf.chunk.js",
     "static/js/2.19047dcf.chunk.js.map": "/cheatle/static/js/2.19047dcf.chunk.js.map",
     "index.html": "/cheatle/index.html",
-    "precache-manifest.4779a30d6eada1b7a1dbceb881905ab9.js": "/cheatle/precache-manifest.4779a30d6eada1b7a1dbceb881905ab9.js",
+    "precache-manifest.7f4f617a90444601f4d65d3aa5c7fd46.js": "/cheatle/precache-manifest.7f4f617a90444601f4d65d3aa5c7fd46.js",
     "service-worker.js": "/cheatle/service-worker.js",
-    "static/css/main.f53079c0.chunk.css.map": "/cheatle/static/css/main.f53079c0.chunk.css.map",
+    "static/css/main.96706879.chunk.css.map": "/cheatle/static/css/main.96706879.chunk.css.map",
     "static/js/2.19047dcf.chunk.js.LICENSE.txt": "/cheatle/static/js/2.19047dcf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f286c2f1.js",
     "static/js/2.19047dcf.chunk.js",
-    "static/css/main.f53079c0.chunk.css",
-    "static/js/main.7a305342.chunk.js"
+    "static/css/main.96706879.chunk.css",
+    "static/js/main.e61411d4.chunk.js"
   ]
 }
