@@ -20,7 +20,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "build:tailwind": "tailwind build src/index.css -o src/output.css",
+    "build:tailwind": "tailwind build -i src/index.css -o src/output.css",
     "watch:tailwind": "chokidar 'src/**' --ignore src/output.css -c 'npm run build:tailwind'",
     "start": "npm-run-all build:tailwind --parallel watch:tailwind start:react",
     "start:react": "react-scripts start",
@@ -29,7 +29,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "lint": "eslint"
   },
   "eslintConfig": {
     "extends": [
